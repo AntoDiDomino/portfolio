@@ -1,14 +1,30 @@
+
+
 nav {
     padding: 10%;
 }
 
 #section1 {
-    background-image: linear-gradient(to bottom, #ffc107, white)
+    background-image: linear-gradient(to bottom, #ffc107, #dfc4ff); 
 
+}
+
+#section2 {
+    background-image: linear-gradient(to bottom, #dfc4ff, #974ff0);
+    padding: 20vh 50vh 10vh 50vh;
 }
 
 .text-center {
     padding-top: 20vh;
-    padding-bottom: 50vh;
+    padding-bottom: 20vh;
     color: white;
 }
+
+.titulo {
+    color: #974ff0;
+}
+
+.titulo2 {
+    color: white;
+}
+
