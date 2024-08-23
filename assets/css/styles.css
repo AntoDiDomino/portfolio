@@ -27,6 +27,18 @@ nav {
 .titulo2 {
     color: white;
 }
+.sub-y {
+    color: #974ff0;
+}
+
+.btn-primary{
+    background-color: #974ff0;
+    border: #974ff0;
+}
+
+.btn-primary:hover {
+    background-color: #57007c;
+}
 
 #container1 {
     padding: 0% 10% 0% 0%;
@@ -37,12 +49,21 @@ nav {
     padding: 1% 10% 5% 10%;
 }
 
+#formulario {
+    background-image: linear-gradient(to bottom, white, #ffc107); 
+    padding: 5% 10% 5% 10%;
+}
+
+#texto-formulario {
+    margin: 0% 20%;
+}
+
 #carouselExampleCaptions {
     height: 10%;
 }
 
 .carrusel {
-    height: 30vh;
+    height: 50vh;
     display: flex;
     align-items: center;
 }
