@@ -11,12 +11,12 @@ nav {
 
 #section2 {
     background-image: linear-gradient(to bottom, #dfc4ff, #974ff0);
-    padding: 20vh 50vh 10vh 50vh;
+    padding: 5% 20% 5% 20%;
 }
 
-.text-center {
-    padding-top: 20vh;
-    padding-bottom: 20vh;
+.tituloprincipal {
+    padding-top: 5%;
+    padding-bottom: 5%;
     color: white;
 }
 
@@ -28,3 +28,11 @@ nav {
     color: white;
 }
 
+#container1 {
+    padding: 0% 10% 0% 0%;
+}
+
+#Portafolio {
+    background-color:  #974ff0;
+    padding: 5% 20% 5% 20%;
+}
